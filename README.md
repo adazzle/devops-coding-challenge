@@ -41,7 +41,7 @@ Fork this repository.
 * Document each step. 
 * Make it easy to install
 
-Give our account `Freewheel` access to your fork, and send us an email when you’re done. Feel free to ask questions if anything is unclear, confusing, or just plain missing.
+Give us access to your fork, and send us an email when you’re done. Feel free to ask questions if anything is unclear, confusing, or just plain missing.
 
 # Extra Credit
 
