@@ -79,6 +79,6 @@ We’ll discuss the choices you made at interview.
 
 Good question. Feel free to tell us how to make the test better. Or, you know, fork it and improve it!
 
-#### How long should this take
+#### How long should this take?
 
 There are many ways to solve this problem so it may vary for each candidate and depends how far you want to take it but we are confident the basic requirements can be met with 2-3 hours work.
